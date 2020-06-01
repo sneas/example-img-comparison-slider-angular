@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "img-comparison-slider-angular"
+    }
+  },
+  "defaultProject": "img-comparison-slider-angular",
+  "cli": {
+    "analytics": "01c80a4c-b277-4e35-a631-d726d9f070c8"
+  }
 }
