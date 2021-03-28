@@ -1,6 +1,9 @@
 <img-comparison-slider>
-  <img slot="before" [src]="before">
-  <img slot="after" [src]="after">
+  <img slot="before" src="/assets/{{series}}-before.jpg">
+  <img slot="after" src="/assets/{{series}}-after.jpg">
 </img-comparison-slider>
+<div>
+  <input type="button" value="Change Images" (click)="changeImages()">
+</div>
 
 <router-outlet></router-outlet>
