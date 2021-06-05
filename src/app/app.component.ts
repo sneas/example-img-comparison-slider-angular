@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  before = 'https://sneas.github.io/img-comparison-slider/demo/images/before.jpg';
-  after = 'https://sneas.github.io/img-comparison-slider/demo/images/after.jpg';
+  before = 'https://sneas.github.io/img-comparison-slider/images/sunflower.webp';
+  after = 'https://sneas.github.io/img-comparison-slider/images/gerber.webp';
 }
